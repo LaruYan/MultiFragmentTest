@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiFragmentTest</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_message">TestMessage</string>
+    <string name="category_foreground">Foreground</string>
+    <string name="title_foreground">Text color</string>
+    <string name="summary_foreground">sets text color</string>
+    <string name="dialog_title_foreground">Select Text color</string>
+    <string name="category_background">Background</string>
+    <string name="title_background">Background Color</string>
+    <string name="summary_background">sets background color</string>
+    <string name="dialog_title_background">Select Background color</string>
+</resources>
