@@ -86,7 +86,7 @@ public class PreviewFragment extends Fragment implements SharedPreferences.OnSha
 
     @Override
     public void onPause() {
-        preferences.registerOnSharedPreferenceChangeListener(this);
+        preferences.unregisterOnSharedPreferenceChangeListener(this);
         super.onPause();
     }
 
